@@ -1,1 +1,1 @@
-# Jawaban nomor 1 untuk UTS Server Network Administration
+# Jawaban nomor 1 & 2 untuk UTS Server Network Administration
